@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124054377405",
+    "project_id": "nayalens-88f67",
+    "storage_bucket": "nayalens-88f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124054377405:android:978a58849781267ecc38d4",
+        "android_client_info": {
+          "package_name": "com.loken.nayalens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124054377405-7b0p4lb2sf5qgd5bn3mirg5sl87qp67c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loken.nayalens",
+            "certificate_hash": "33443ecdd3a9964ab97fe07ba1f40dc5dfbbed85"
+          }
+        },
+        {
+          "client_id": "124054377405-mked2ck861435mihpfpc88r6agmq4s99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sUilQlDmUmKH9aiYJBhq-Oz_YhrL3MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124054377405-mked2ck861435mihpfpc88r6agmq4s99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
